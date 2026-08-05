@@ -1,6 +1,6 @@
 <html> 
 	<head> 
-	<title>Sahana - Hakuna matata</title>
+	<title>Sa - Hakuna matata</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"/>
 	</head>
 
